@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+logfile.log
+
+config/default.json
+uncaughtExceptions.log
